@@ -10,7 +10,7 @@ Pour cela, j'ai téléchargé sur la plateforme Kaggle un jeu de données d'envi
 
 Puis, avec python j'ai pu analyser les données et les préparer pour les entrer dans le modèle. 
 
-Ensuite, j'ai utilisé des techniques d'apprentissage non-supervisé. Avec l'algorithme isolation forest présent dans la bibliothèque Scikit-Learn, j'ai pu déterminer quelles transactions étaient très différentes de ce qui se fait habituellement. Ces dernières sont donc surement des fraudes. 
+Ensuite, j'ai utilisé des techniques d'apprentissage non-supervisé. Avec l'algorithme Isolation Forest présent dans la bibliothèque Scikit-Learn, j'ai pu déterminer quelles transactions étaient très différentes de ce qui se fait habituellement. Ces dernières sont donc surement des fraudes. 
 
 Étant donné que le jeu de données était labellisé, la qualité des algorithmes de détection d'anomalies a donc pu être étudiée.
 
